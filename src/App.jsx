@@ -1,6 +1,6 @@
 function App() {
   return (
-    <div className="flex flex-wrap gap-10 justify-center p-5">
+    <div className="flex flex-wrap justify-center gap-6 p-4">
 
       <Card
         img={girl1}
@@ -29,3 +29,5 @@ function App() {
     </div>
   );
 }
+
+export default App;
